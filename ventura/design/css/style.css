@@ -1,0 +1,74 @@
+.layout-head .socio ul {
+    max-width: 200px;
+    float: right;
+    margin: 3px 10px 0px 1px;
+}
+
+.layout-head .socio li {
+    margin: 0;
+    padding: 0;
+    float: right;
+    border: 0px solid #000;
+}
+
+.layout-head .socio li a {
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    transition: all 0.35s ease-in-out 0s;
+    padding: 0;
+    float: left;
+    width: 36px;
+    height: 36px;
+    margin: 1px;
+    text-indent: -10000px;
+}
+
+.layout-head .socio li.twito a {
+    background: url('../images/socio.png') -87px -4px;
+}
+
+.layout-head .socio li.facebook a {
+    background: url('../images/socio.png') -3px -4px;
+}
+
+.layout-head .socio li.rss a {
+    background: url('../images/socio.png') -172px -4px;
+}
+
+.layout-head .socio li.linkedin a {
+    background: url('../images/socio.png') -130px -4px;
+}
+
+.layout-head .socio li.google a {
+    background: url('../images/socio.png') -44px -4px;
+}
+
+.layout-head .socio li.twito a:hover {
+    background-position: -87px -46px;
+    transition: all 0.2s ease-in-out 0s;
+}
+
+.layout-head .socio li.facebook a:hover {
+    background-position: -3px -46px;
+    transition: all 0.2s ease-in-out 0s;
+}
+
+.layout-head .socio li.rss a:hover {
+    background-position: -172px -46px;
+    transition: all 0.2s ease-in-out 0s;
+}
+
+.layout-head .socio li.linkedin a:hover {
+    background-position: -130px -46px;
+    transition: all 0.2s ease-in-out 0s;
+}
+
+.layout-head .socio li.google a:hover {
+    background-position: -44px -46px;
+    transition: all 0.2s ease-in-out 0s;
+}
+
+.layout-head .socio li:hover {
+    background: none;
+}

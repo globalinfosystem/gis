@@ -1,0 +1,63 @@
+.scrollToTop{background-color:#EE82EE; color:#fff}
+.scrollToTop:hover, .scrollToTop:focus{background-color:#fff; color:#EE82EE; border-color:1px solid #EE82EE}
+.logo > span{color:#EE82EE}
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus{background-color:#EE82EE}
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus{background-color:#EE82EE}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus{background-color:#EE82EE}
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus{background-color:#EE82EE}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus{background-color:#EE82EE}
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus{background-color:#EE82EE}
+.latest_newsarea span{background:none repeat scroll 0 0 #EE82EE}
+.latest_post > h2 span{background:none repeat scroll 0 0 #EE82EE}
+#prev-button{color:#EE82EE}
+#next-button{color:#EE82EE}
+.single_post_content > h2 span{background:none repeat scroll 0 0 #EE82EE}
+.single_sidebar > h2 span{ background:none repeat scroll 0 0 #EE82EE}
+.bsbig_fig figcaption a:hover{color:#EE82EE}
+.spost_nav .media-body > a:hover{color:#EE82EE}
+.cat-item a:hover{background-color:#EE82EE}
+.nav-tabs > li > a:hover, .nav-tabs > li > a:focus{background-color:#EE82EE}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{background-color:#EE82EE}
+.single_sidebar > ul > li a:hover{color:#EE82EE}
+.footer_widget > h2:hover{color:#EE82EE}
+.tag_nav li a:hover{color:#EE82EE; border-color:#EE82EE}
+.copyright a:hover{color:#EE82EE}
+.post_commentbox a:hover, .post_commentbox span:hover{color:#EE82EE}
+.breadcrumb{border-left:10px solid #EE82EE}
+.single_page_content ul li:before{background-color:#EE82EE}
+.single_page_content h2, .single_page_content h3, .single_page_content h4, .single_page_content h5, .single_page_content h6{color:#EE82EE}
+.nav-slit .icon-wrap{background-color:#EE82EE}
+.nav-slit h3{background:#EE82EE}
+.catgArchive{background-color:#EE82EE}
+.error_page > h3{color:#EE82EE}
+.error_page > span{background:none repeat scroll 0 0 #EE82EE}
+.error_page > a{background-color:#EE82EE}
+.contact_area > h2{background-color:#EE82EE}
+.contact_form input[type="submit"]{background-color:#EE82EE}
+.contact_form input[type="submit"]:hover{background-color:#fff; color:#EE82EE}
+.related_post > h2 i{color:#EE82EE}
+.form-control:focus{border-color:#EE82EE;  box-shadow:0 0px 1px #EE82EE inset,0 0 5px #EE82EE}
+
+#result a {
+    background: #EE82EE;
+    width: 100%;
+    padding: 2px;
+    box-shadow:0 0px 1px #A52A2A inset;
+    font-weight: bolder;
+    color: #fff;
+    display: block;
+}
+
+#result a:hover {
+    background: green;
+}
+
+.visitors {
+    background: #EE82EE url("images/visitors.png") no-repeat scroll 15px center;
+    color: #fff;
+    padding: 41px 22px 28px 108px;
+}
+
+.blue-bar {
+    background: #EE82EE !important;
+}
