@@ -1,0 +1,42 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+
+
+RewriteRule ^(.*)$ index.php/$1 [L]
+
+<Files ./setting.json>
+Order Allow,Deny
+Deny from all
+</Files>
+
+<Files ./setting.php>
+Order Allow,Deny
+Deny from all
+</Files>
+
+<Files ./license.txt>
+Order Allow,Deny
+Deny from all
+</Files>
+
+<Files ./countlog.txt>
+Order Allow,Deny
+Deny from all
+</Files>
+
+<Files ./countlog.txt>
+Order Allow,Deny
+Deny from all
+</Files>
+
+<Files ./Desktop.ini>
+Order Allow,Deny
+Deny from all
+</Files>
+
+<LimitExcept POST GET HEAD>
+  Order Allow,Deny
+  Deny from all
+</LimitExcept>
