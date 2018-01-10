@@ -1,0 +1,1 @@
+<?php $this->load->view('layouts/' . CNF_THEME . '/slider/slider', array('gallery_id' => 5), false); ?>

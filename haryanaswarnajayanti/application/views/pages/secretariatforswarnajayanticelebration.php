@@ -1,0 +1,2 @@
+<div class="title-bar green-bar">Secretariat for Swarna Jayanti Celebration</div>
+<iframe src="<?php echo base_url() ?>administrator/themes/mango/menupdf/5.pdf" width="1000px" height="1000px"></iframe>

@@ -1,0 +1,2 @@
+<div class="title-bar green-bar">Suggestive List of Events/Programmes</div>
+<iframe src="<?php echo base_url();?>uploads/events/calander-revised-on-30.11.2016.pdf" width="1000px" height="1000px"></iframe>
